@@ -1,3 +1,3 @@
-## Yo, I'm a Readme
+## JavaScript Library of functions to calculate area and volume of various shapes.
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+Only javascript was used.
